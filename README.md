@@ -61,7 +61,7 @@
 * 🤞 Promises
 * 🚀 Async/Await
 * 🌐 Fetch API
-
+* ☮️ So On...
 ---
 
 ## 📂 Project Structure
