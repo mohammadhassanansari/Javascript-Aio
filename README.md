@@ -136,7 +136,7 @@ git push
 
 ## ⭐ Support
 
-If this helped you:
+If this helped You:
 
 🌟 Star the repo
 🍴 Fork it
