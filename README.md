@@ -34,7 +34,7 @@
 * 📦 Variables (`var`, `let`, `const`)
 * 🔢 Data Types
 * ➕ Operators
-* 🔁 Control Flow
+* 🔁 Control flow all 
 
 ### 🔵 Functions & Scope
 
