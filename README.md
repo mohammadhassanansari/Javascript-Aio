@@ -40,7 +40,7 @@
 
 * 🔧 Functions & Arrow Functions
 * 🌍 Scope (Global, Block, Local)
-* 🧠 Closures 🔥
+* 🧠 Closures 
 
 ### 🟢 Objects & Arrays
 
