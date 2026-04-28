@@ -29,7 +29,7 @@
 
 ## 🧠 What You’ll Master
 
-### 🟡 Core Fundamentalss
+### 🟡 Core Fundamentals
 
 * 📦 Variables (`var`, `let`, `const`)
 * 🔢 Data Types
